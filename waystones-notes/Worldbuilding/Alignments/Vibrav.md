@@ -1,0 +1,6 @@
+- Origin: Discovered by a inspiring bard that twisted sounds into mystical melodies. During a performance of particular excellence, Vivviun closed her eyes and played as if she and the music were one and the same. As she finished and her eyes opened, she was met with absolute and utter silence but for a faint sound. She heard the sweetest tune and followed it with her heart, finding that she could hear the Vibrav leyline itself. She then mimicked the sounds of the leyline instinctively and was pulled back to reality but becoming one with the music she played.
+- Mage-lord: Vivviun the Virtuosa
+- Where: When a musician is playing a particularly grand performance, it is sometimes said that you can see Vivviun in the crowd, enjoying the music as well, but ceasing to exist as soon as the music stops. On rare occasions, it is said that she may even join in, turning a one-man band into a mystical concert.
+- Characteristics: 
+- Magic: Waves, vibrations, sound
+- Playstyle: Aggresive

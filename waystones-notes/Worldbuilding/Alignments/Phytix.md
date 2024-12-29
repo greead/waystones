@@ -1,0 +1,6 @@
+- Origin: Discovered by a capricious druid that learned 103 shapes. Her final shape was a great Deepiron Tree. She bore her roots deep into the very core of the world, wrapping around the Phytix leylines and dispersing its magic onto the winds whistling by her leaves.
+- Mage-lord: Amyll the Wild
+- Where: The great deepiron tree of Amyll still stands proudly and whispers magic into the wind. The area around the tree is flush with mystical fauna and magical flora that are not seen anywhere else in the world. Many druids make a pilgrimage to the Great Tree of Amyll to offer fruits and foods to the mage-lord, and others take the pilgrimage more seriously, opting to take the form of a tree themselves, reach their roots deep, and touch the roots of Amyll directly. Most take on this form for around 2 years, but some still take this form after many more.
+- Characteristics: Natural, cunning, wild, savage, beautiful, serene
+- Magic: Plants, animals, elixirs
+- Playstyle: Adaptive

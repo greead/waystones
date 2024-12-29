@@ -1,0 +1,12 @@
+There are ten alignments in Waystones. These alignments are types of magic that the units might use or be affiliated with. They are as follows:
+- [[Aelus]]
+- [[Inferna]]
+- [[Kozm]]
+- [[Specta]]
+- [[Phytix]]
+- [[Thermis]]
+- [[Luxcia]]
+- [[Vibrav]]
+- [[Polerro]]
+- [[Psyki]]
+- a

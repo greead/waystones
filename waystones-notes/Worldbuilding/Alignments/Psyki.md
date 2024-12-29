@@ -1,0 +1,5 @@
+- Origin: Discovered by a charismatic charmer
+- Mage-lord: 
+- Characteristics: empathy, emotion, spirituality
+- Magic: Empathy, energy, cognition
+- Playstyle: Combo

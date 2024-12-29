@@ -1,0 +1,6 @@
+- Origin: Discovered by a prodigal arcanist that studied and eventually solved a system of equations that could predict the future by following the mathematical structure of the Kozm leylines and mapping their energies onto the movements of extraterrestrial bodies. On uttering the spell, Trabotska ascended, with nobody around to know what he said.
+- Mage-lord: Trabotska the Prodigy
+- Where: Trabotska, after using the spell to view the future wove their very essence into the fabric of reality, joining the stars above as a constellation of pure arcana. Many Kozm arcanists follow the signs of the constellation in hopes it will guide them to the magics that Trabotska gleamed in his moments before ascension.
+- Characteristics: Calculating, studious, academic, organized
+- Magic: Space, time, arcane
+- Playstyle: Controlling

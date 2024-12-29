@@ -1,0 +1,7 @@
+- Origin: Discovered by a troubled seer that was born blind. One day, they sat and stared into the sun. As the deadly rays cut through the seer's retinas, the seer began to be able to see the Luxcia leylines. With the leymagic, they began to see by shadow and bend light.
+- Mage-lord: Ui \["E"] the Blind
+- Where: Ui is said to wander the Light realm as a sourceless shadow in the light. And if you follow the shadow as it crosses other shadows, you can perhaps see his blinded eyes in the shadows themselves as he crosses between the shadow and light unlike any other. He tends not to speak much, but unlike the other mage-lords, Ui is very friendly and willing to answer a question or two before he runs off again, never staying in one spot for long. Many wonder why, but it is a question Ui has yet to answer.
+- Characteristics: 
+- Magic: Light, shadow, vision
+- Playstyle: Tricky
+- Titles: Luminarch

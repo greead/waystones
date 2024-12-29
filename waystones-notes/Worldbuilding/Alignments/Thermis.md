@@ -1,0 +1,5 @@
+- Origin: Frozen volcano? Perfect temp (firestorm + blizzard)? Techno?
+- Mage-lord: Conjurer? Mystic?
+- Characteristics: 
+- Magic: Cold, hot, state
+- Playstyle: Combo, Adaptable

@@ -1,0 +1,6 @@
+- Origin: Discovered by an ambitious medium that awoke half-dead on a bloodied battlefield and channeled the souls of 3,007 soldiers through the Specta leylines, bringing about a tide of spirits and ghouls to overwhelm the attacking legions.
+- Mage-lord: Mies the Haunted
+- Where: Soldiers tell tales of figures appearing behind shrubs and trees on every battleground. It is thought that this is Mies, guiding the dead towards salvation. Tales say that if you see his image, death is not far away; if you can see the spirits, death can see you too. Fortunately, Mies is also seen as a sign of hope, because his appearance is not an omen, it is a warning. When strong practitioners of Specta grow stronger and teeter the lines of death, life, and undeath, they claim to see Mies at all times in the corner of their vision, but always unable to be seen.
+- Characteristics: Sacrifice, despair, foreboding, cherishing, wisdom
+- Magic: Life, death, undeath
+- Playstyle: Adaptive
