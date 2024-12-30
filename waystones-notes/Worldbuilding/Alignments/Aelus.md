@@ -1,6 +1,6 @@
-- Origin: Discovered by a monk who meditated atop the tallest mountain in the harsh and unforgiving Rainlands, eventually cultivating a deep, internal connection to the Aelus leylines.
+- Origin: Discovered by a stoic monk who meditated atop the tallest mountain in the harsh and unforgiving Rainlands, eventually cultivating a deep, internal connection to the Aelus leylines.
 - Mage-lord: Shen Heng the Patient
 - Where: Shen Heng is a moss-covered statue on top of the silent mountains where no sounds persist but that of the wind, rain, and thunder. Lightning only ever strikes the statue of Shen Heng. It is said, that the mountains remain silent so as not to disturb Shen Heng's eternal meditation. You can see the statue glow when it rains as it absorbs the thunder that would strike the mountainside, but instead is absorbed by Shen Heng himself.
-- Characteristics: Meditation, discipline, virtue, patience, change, opportunity
+- Characteristics: Meditation, discipline, virtue, patience, change, opportunity, fickle
 - Magic: Wind, thunder, lightning
-- Playstyle: Adaptive
+- Playstyle: Adaptive, Aggressive

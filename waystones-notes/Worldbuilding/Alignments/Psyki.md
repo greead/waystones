@@ -1,5 +1,6 @@
-- Origin: Discovered by a charismatic charmer
-- Mage-lord: 
-- Characteristics: empathy, emotion, spirituality
-- Magic: Empathy, energy, cognition
-- Playstyle: Combo
+- Origin: Discovered by a charismatic empath who gave everything they had to those around them, then proceeded to align all of their emotions, humors, chakras, and qi directly with the Psyki leyline. In this moment, they projected their astral self and walked the leyline, absorbing immense amounts of energy into their spiritual body as their physical body disintegrated before them.
+- Mage-lord: Aeralese the Formless
+- Where: Aeralese is without form but walks the astral realm that overlays the physical realm. Those who attempt to project into the ambient realm may find themselves face-to-face with Aeralese as she lives in a great astral city of Daas with many devotees that live about her.
+- Characteristics: empathy, emotion, spirituality, understanding, devotion, self-centered, altruistic
+- Magic: Empathy, energy, emotion, qi
+- Playstyle: Supportive, Controlling

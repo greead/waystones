@@ -1,5 +1,5 @@
-- Origin: Frozen volcano? Perfect temp (firestorm + blizzard)? Techno?
-- Mage-lord: Conjurer? Mystic?
-- Characteristics: 
+- Origin: Discovered by a clever thermomance that studied both cold magics and heat magics. In an epiphany of sorts, the thermomance grasped hold of both magics at once, a terrible danger which all before him had warned against. But this thermomance, clever as he was, combined the cold and heat magics, conjuring them at once rather than as separate entities. The cunning thermomance had found that they were one and the same and forced the Thermis leyline to once again converge as it was always meant to be. The leyline had split as an uneven balance of heat and cold magics existed in the world, but this act entangled them once more.
+- Mage-lord: Farrun the Clever
+- Characteristics: Wit, adaptability, balance, cunning, overconfidence, prudence
 - Magic: Cold, hot, state
-- Playstyle: Combo, Adaptable
+- Playstyle: Combo, Adaptive

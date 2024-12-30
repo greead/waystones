@@ -1,6 +1,6 @@
-- Origin: Discovered by a witch who created the first fiends, then ensnared her vile creations within a magic realm of pure everflame made from her very essence, connected to this world via the Inferna leylines.
+- Origin: Discovered by a carefree witch who created the first fiends, then ensnared her vile creations within a magic realm of pure everflame made from her very essence, connected to this world via the Inferna leylines.
 - Mage-lord: Ifera the Mother
 - Where: Ifera remains as the everflame barrier and fiend realm itself, only ever occasionally apparating as a visage made entirely of everflame when in dire need.
 - Characteristics: Purity, freedom, obedience, chaos, impulsiveness
 - Magic: Flames, fiends, darkness
-- Playstyle: Aggressive
+- Playstyle: Aggressive, More Aggressive

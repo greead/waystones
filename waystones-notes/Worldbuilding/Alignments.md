@@ -9,4 +9,3 @@ There are ten alignments in Waystones. These alignments are types of magic that 
 - [[Vibrav]]
 - [[Polerro]]
 - [[Psyki]]
-- a

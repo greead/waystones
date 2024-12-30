@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Alignments/Psyki.md",
+                "file": "Worldbuilding/Realms/The Ambient Realm.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Psyki"
+              "title": "The Ambient Realm"
             }
           }
         ],
@@ -174,22 +174,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
   "active": "ae503598f91cd4fb",
   "lastOpenFiles": [
-    "Worldbuilding/Alignments/Thermis.md",
-    "Worldbuilding/Alignments/Psyki.md",
-    "Worldbuilding/Alignments/Vibrav.md",
-    "Worldbuilding/Alignments/Specta.md",
-    "Worldbuilding/Alignments/Polerro.md",
-    "Worldbuilding/Alignments/Phytix.md",
-    "Worldbuilding/Alignments/Luxcia.md",
+    "Worldbuilding/Alignments.md",
+    "Worldbuilding/Realms/The Infernal Realm.md",
     "Worldbuilding/Alignments/Kozm.md",
-    "Worldbuilding/Alignments/Inferna.md",
+    "Worldbuilding/Ancestries.md",
+    "Worldbuilding/Realms/The Stellar Realm.md",
     "Worldbuilding/Alignments/Aelus.md",
-    "Worldbuilding/Alignments/Alignments.md",
+    "Worldbuilding/Untitled",
+    "Worldbuilding/Ancestries",
+    "Worldbuilding/Alignments/Inferna.md",
+    "Worldbuilding/Alignments/Luxcia.md",
+    "Worldbuilding/Alignments/Phytix.md",
+    "Worldbuilding/Alignments/Polerro.md",
+    "Worldbuilding/Alignments/Psyki.md",
+    "Worldbuilding/Alignments/Specta.md",
+    "Worldbuilding/Alignments/Thermis.md",
+    "Worldbuilding/Alignments/Vibrav.md",
+    "Worldbuilding/Realms/The Ambient Realm.md",
+    "Worldbuilding/Realms/The Physical Realm.md",
+    "Worldbuilding/Realms/The Spiritual Realm.md",
+    "Worldbuilding/Realms/The Luminous Realm.md",
+    "Worldbuilding/Realms",
     "Program/Classes.md",
     "Gameplay/Gameplay.md",
     "Program",
@@ -203,10 +214,6 @@
     "Gameplay/Units",
     "Gameplay/Commanders",
     "Gameplay",
-    "Worldbuilding/Alignments.md",
-    "Worldbuilding/Alignments",
-    "Worldbuilding/Alignments",
-    "Worldbuilding",
     "Welcome.md"
   ]
 }

@@ -1,6 +1,6 @@
 - Origin: Discovered by a courageous stonewright who led forth a small band of heroes to fight against a grand and overwhelming invading force. Upon meeting the force face-to-face, they were far outnumbered and outgunned. Thimeth, in his final efforts, pleaded with the very earth itself, and... It answered. Thimeth, with his only hope left, grabbed hold of the Polerro leyline that was revealed to him by the stones and rocks about him. He turned into a towering man of metal and earth, and all about him the stones rose and took the form of earthen men with iron in their hands. A great bastion rose around them all, and each tower was manned to the teeth by these earthen men. The invaders stood no chance and were eradicated the same night.
 - Mage-lord: Thimeth the Steadfast
 - Where: The Great Bastion still stands where it stood years before, becoming the capital of the Earthenfolk that were born on the battlefield that day. A great sarcophagus stands within the Bastion Temple and is said to contain Thimeth himself. Those who bring tribute to Thimeth often find spare nuts and bolts in their pockets as they leave the temple.
-- Characteristics: 
+- Characteristics: Steadfast, courage, bravery, headlong, bullheaded, unforgiving, tenacious
 - Magic: Earth, metal, chemicals
-- Playstyle: Combo
+- Playstyle: Controlling, Defensive
